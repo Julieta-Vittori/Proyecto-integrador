@@ -1,0 +1,18 @@
+.descripcion-producto {
+    padding: 20px 40px;
+}
+
+.descripcion-producto h2 {
+    padding: 0;
+    margin: 35px 0;
+}
+
+.descripcion-producto p {
+    padding: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .descripcion-producto {
+        padding: 20px;
+    }
+}
